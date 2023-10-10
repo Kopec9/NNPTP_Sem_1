@@ -21,6 +21,8 @@ namespace NNPTPZ1
     /// This program should produce Newton fractals.
     /// See more at: https://en.wikipedia.org/wiki/Newton_fractal
     /// </summary>
+    /// 
+   // nevim
     class Program
     {
         static void Main(string[] args)
